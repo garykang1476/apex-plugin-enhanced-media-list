@@ -1,2 +1,2 @@
-# apex-plugin-list-with-buttons
-List with functional buttons
+# apex-plugin-enhanced-media-list
+Media List with Functional Buttons
